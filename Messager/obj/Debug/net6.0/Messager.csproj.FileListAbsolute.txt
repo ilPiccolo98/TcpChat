@@ -1,0 +1,15 @@
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\bin\Debug\net6.0\Messager.exe
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\bin\Debug\net6.0\Messager.deps.json
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\bin\Debug\net6.0\Messager.runtimeconfig.json
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\bin\Debug\net6.0\Messager.dll
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\bin\Debug\net6.0\ref\Messager.dll
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\bin\Debug\net6.0\Messager.pdb
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\obj\Debug\net6.0\Messager.csproj.AssemblyReference.cache
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\obj\Debug\net6.0\Messager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\obj\Debug\net6.0\Messager.AssemblyInfoInputs.cache
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\obj\Debug\net6.0\Messager.AssemblyInfo.cs
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\obj\Debug\net6.0\Messager.csproj.CoreCompileInputs.cache
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\obj\Debug\net6.0\Messager.dll
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\obj\Debug\net6.0\ref\Messager.dll
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\obj\Debug\net6.0\Messager.pdb
+C:\Users\it partner\Desktop\c#\TcpNetworking\Messager\obj\Debug\net6.0\Messager.genruntimeconfig.cache

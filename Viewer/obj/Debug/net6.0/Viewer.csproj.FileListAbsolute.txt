@@ -1,0 +1,15 @@
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\bin\Debug\net6.0\Viewer.exe
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\bin\Debug\net6.0\Viewer.deps.json
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\bin\Debug\net6.0\Viewer.runtimeconfig.json
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\bin\Debug\net6.0\Viewer.dll
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\bin\Debug\net6.0\ref\Viewer.dll
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\bin\Debug\net6.0\Viewer.pdb
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\obj\Debug\net6.0\Viewer.csproj.AssemblyReference.cache
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\obj\Debug\net6.0\Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\obj\Debug\net6.0\Viewer.AssemblyInfoInputs.cache
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\obj\Debug\net6.0\Viewer.AssemblyInfo.cs
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\obj\Debug\net6.0\Viewer.csproj.CoreCompileInputs.cache
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\obj\Debug\net6.0\Viewer.dll
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\obj\Debug\net6.0\ref\Viewer.dll
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\obj\Debug\net6.0\Viewer.pdb
+C:\Users\it partner\Desktop\c#\TcpNetworking\Viewer\obj\Debug\net6.0\Viewer.genruntimeconfig.cache
